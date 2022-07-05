@@ -3,7 +3,7 @@
     "description": "工具类",
     "autoload": {
         "psr-4": {
-            "Utils\\": "src/"
+            "Zhangerwa\\utils\\": "src/"
         }
     },
     "authors": [

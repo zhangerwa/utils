@@ -1,6 +1,6 @@
 <?php
 
-namespace Utils;
+namespace zhangerwa\utils;
 
 class Index
 {
