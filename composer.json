@@ -1,9 +1,9 @@
 {
     "name": "zhangerwa/utils",
-    "description": "工具类",
+    "description": "test",
     "autoload": {
         "psr-4": {
-            "Zhangerwa\\utils\\": "src/"
+            "Zhangerwa\\Utils\\": "src/"
         }
     },
     "authors": [
