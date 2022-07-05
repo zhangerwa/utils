@@ -1,0 +1,16 @@
+{
+    "name": "zhangerwa/utils",
+    "description": "工具类",
+    "autoload": {
+        "psr-4": {
+            "Zhangerwa\\Utils\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "小脑斧爱追花伏叠",
+            "email": "327093251@qq.com"
+        }
+    ],
+    "require": {}
+}

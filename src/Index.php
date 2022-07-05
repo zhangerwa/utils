@@ -1,6 +1,6 @@
 <?php
 
-namespace requestsync;
+namespace zhangerwa/utils;
 
 class Index
 {
